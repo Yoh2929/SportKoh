@@ -24,7 +24,7 @@ Le projet, tel que proposé par nos enseignants, devait avant tout nous permettr
 Certaines pages n'ont ainsi pas été réalisées, car l'interview du client fictif ne permettait pas de les compléter, mais également car chacun devait réaliser UNE page.
 
 ## Équipe
-Yohann MEAR : Chef de projet
-Lucas DESPERROIS : Développement
-Ethan LEVACHER : Web Designer
-Yanis PONTHOU : Concepteur
+- Yohann MEAR : Chef de projet
+- Lucas DESPERROIS : Développement
+- Ethan LEVACHER : Web Designer
+- Yanis PONTHOU : Concepteur
