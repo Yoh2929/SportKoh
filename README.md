@@ -8,11 +8,13 @@ Capture d'écran de la page d'accueil
 
 Lien du site : https://yoh2929.github.io/SportKoh
 
-Le dossier rendu contient les documents complémentaires que nous avons apportés à chaque étape du projet. Il s'agit :
 
-d'une arborescence réalisée sur Gloomaps
-d'une charte graphique réalisée avec Canva
-d'une maquette réalisée avec Figma
+## Etapes
+Durant ce projet, nous avons eu l'occassion de suivre plusieurs étapes pour réaliser la version finale du site. Ainsi, suite à l'étude des besoins du client, nous avons suivi les étapes suivantes : 
+- Réalisation d'une arborescence sur Gloomaps
+- Élaboration d'une charte graphique avec Canva
+- Élaboration d'une maquette avec Figma
+- Développement des pages avec HTML & CSS
 
 ## Technologies
 Le site Web a été développé avec l'aide des langages HTML et CSS.
